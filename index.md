@@ -15,7 +15,7 @@ Undergraduate, Computer Science - Physics Joint Honours Program
 GPA: 94.23/100      
 Undergraduate, Middle East Studies
 
-
+ 
 ### STRENGHTS AND TECHNICAL SKILLS 
 
 | Computer Science | Physics                                |
