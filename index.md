@@ -5,7 +5,7 @@ Undergraduate Physics-Computer Science student based in Winnipeg, Canada
 glikmana@myumanitoba.ca
 
 +1 (431) 877-3222
-___
+
 ## Education
 **University of Manitoba**  *Sept 2016 - Present*       
 GPA: 4.22/4.50    
