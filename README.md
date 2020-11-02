@@ -29,6 +29,10 @@ What are you going to need before you get started? You will need the following:
     
 ### Instructions
 
+
+![Newrepository](https://user-images.githubusercontent.com/73805987/97831667-5912ab80-1c96-11eb-9281-6dd94da0854d.jpg)
+
+
 Though there are many to choose from, the one you are going to use today is Jekyll. Don't worry: you do not have to know what Jekyll is or how to use it, but just know that you will use it as your static site generator. How? You'll find out shortly.
 
 ### More Resources
