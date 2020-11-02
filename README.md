@@ -20,11 +20,15 @@ What are you going to need before you get started? You will need the following:
     * Don't have one? No problem. Make one [here](https://github.com/). 
     
 2. Some know-how in markdown
-    * You can learn quickly [here](https://www.markdowntutorial.com/).
+    * You can learn quickly [here](#more-Resources).
 
-3. 
+3. A resume formatted in markdown
 
-
-
+### Instructions
 
 Though there are many to choose from, the one you are going to use today is Jekyll. Don't worry: you do not have to know what Jekyll is or how to use it, but just know that you will use it as your static site generator. How? You'll find out shortly.
+
+### More Resources
+
+
+
