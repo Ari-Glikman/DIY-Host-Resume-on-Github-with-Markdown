@@ -68,5 +68,5 @@ across Manitoba, with the message that science is for everybody
 * 2019 Univ. Of. Manitoba Centennial Scholarship in Physics
 * 2018 Faculty of Science Summer Undergraduate Poster Competition
 
-
+ 
 *References Available Upon Request* 
