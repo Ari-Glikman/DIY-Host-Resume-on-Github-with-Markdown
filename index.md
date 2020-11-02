@@ -52,7 +52,7 @@ to obtain results
 
 **Instructor** October 2017 - Present  
 *WISE Kid-Netic Energy*
-
+ 
 
 * Encourage underrepresented groups in science to pursue their passion regardless of the obstacles society
 sets for them
@@ -69,4 +69,4 @@ across Manitoba, with the message that science is for everybody
 * 2018 Faculty of Science Summer Undergraduate Poster Competition
 
  
-*References Available Upon Request* 
+*References Available Upon Request*  
