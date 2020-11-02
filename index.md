@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Ariel Glikman
 
-You can use the [editor on GitHub](https://github.com/Ari-Glikman/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Undergraduate Physics-Computer Science student based in Winnipeg, Canada
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+glikmana@myumanitoba.ca
 
-### Markdown
++1 (431) 877-3222
+___
+## Education
+**University of Manitoba**  *Sept 2016 - Present*       
+GPA: 4.22/4.50    
+Undergraduate, Computer Science - Physics Joint Honours Program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Hebrew University of Jerusalem** *February - August 2020*   
+GPA: 94.23/100      
+Undergraduate, Middle East Studies
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### STRENGHTS AND TECHNICAL SKILLS
 
-- Bulleted
-- List
+| Computer Science | Physics                                |
+| ---------------  | -------                                |
+| Python           |Quantum Mechanics and Special Relativity|
+| Java             | Electro & Magnetodynamics              |
+| C/C++            | Classical & Statistical Mechanics      |
 
-1. Numbered
-2. List
+## Experience
 
-**Bold** and _Italic_ and `Code` text
+**First Aid Responder** Summer 2020  
+*Magen David Adom - Israel Emergency Medical Services*
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Analyze wide range of situations quickly and triage
+* Communicate and perform effectively to groups of all ages
 
-### Jekyll Themes
+**Undergraduate Researcher** Summer 2019  
+*Perimeter Institute For Theoretical Physics*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ari-Glikman/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+* One of 20 people worldwide to get accepted into this competitive program
+* Studied Numerical Methods, Path Integrals, Symmetries, and Neural Networks
+* Applied knowledge from courses to cosmology research, analyzing big data
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Undergraduate Researcher** Summer 2018  
+*University of Manitoba Spintronics Group*
+
+
+* Employed MATLAB to carry out simulation of magnon - polariton coupling
+* Studied magnon polariton coupling with comparison to coupling of mechanical oscillator
+* Analyzed theoretical data to obtain microwave transmission and compared it with experimental data
+to obtain results
+
+**Instructor** October 2017 - Present  
+*WISE Kid-Netic Energy*
+
+
+* Encourage underrepresented groups in science to pursue their passion regardless of the obstacles society
+sets for them
+* Teach physics, biology, chemistry, computer science and engineering to Kindergarten-Grade 12 kids
+across Manitoba, with the message that science is for everybody
+
+
+### Recent Awards and Achievements
+
+* 2020 Dean's Honour List 
+* 2020 Canadian Friends of Hebrew University Scholarship
+* 2019 NSERC USRA
+* 2019 Univ. Of. Manitoba Centennial Scholarship in Physics
+* 2018 Faculty of Science Summer Undergraduate Poster Competition
+
+
+*References Available Upon Request* 
