@@ -1,4 +1,4 @@
-# Ariel Glikman
+# Ariel Glikman 
 
 Undergraduate Physics-Computer Science student based in Winnipeg, Canada
 
