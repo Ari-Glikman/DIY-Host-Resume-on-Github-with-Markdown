@@ -20,7 +20,7 @@ What are you going to need before you get started? You will need the following:
     * Don't have one? No problem. Make one [here](https://github.com/). 
     
 2. Some know-how in markdown
-    *You can learn quickly [here](https://www.markdowntutorial.com/).
+    * You can learn quickly [here](https://www.markdowntutorial.com/).
 
 3. 
 
