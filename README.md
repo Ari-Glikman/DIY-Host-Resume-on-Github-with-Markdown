@@ -32,6 +32,8 @@ The steps will be simple easy to follow.
 
 #### 1. Create a new repository on GitHub (and make sure it is public)
 
+If you are in tech it is likely that potential employers are active on GitHub. It is then important that you make yourself visible to them. As Etter says **Define the Audience.** By wanting to get your resume on GitHub you have done just that.
+
 All the material that you will need will exist within a single repository on GitHub. You can go ahead and create one by cliking the '+' at the top right corner of your GitHub page and select 'New repository'. 
 
 ![Newrepository](https://user-images.githubusercontent.com/73805987/97831667-5912ab80-1c96-11eb-9281-6dd94da0854d.jpg)
@@ -50,6 +52,7 @@ Go ahead and click 'Create repository'.
 
 #### 2. Enable GitHub Pages 
 
+Etter states simply and clearly that building and hosting a website is superior to distributing PDFs in technical writing. This applies to your resume too.
 
 To enable GitHub Pages you will have to first change your repsotiory's settings. 
 
@@ -66,6 +69,8 @@ Click 'Choose a theme'. Here you will have several options. Explore which you li
 
 #### 3. Choose a template for your resume
 
+Style can be the difference between someone reading your work and skimming over it. As *Modern Techincal Writing* suggests, style your resume appropriately, but do not obsess.
+
 Remember the static websites that are so handy? You are going to go ahead and use it now. Though there are many to choose from, the one you are going to use today is Jekyll. Don't worry: you do not have to know what Jekyll is or how to use it, but just know that you will use it as your static site generator. 
 
 ![Themes](https://user-images.githubusercontent.com/73805987/97833904-1ce24980-1c9c-11eb-8d5b-e465e3030b74.png)
@@ -77,7 +82,9 @@ Once you do this you will be taken to edit a new file in your repository. This f
 
 #### 4. Upload your resume in Markdown
 
-There is a few ways to go about doing this. If you already have your file in a .md file you can click 'Upload files' and upload your file.
+You have to market yourself as a product. To paraphrase Etter, why whould anyone want you? How would you fit in a broader ecosystem? Your resume should be to you what product documentation is to a product.
+
+There is a few ways to go about uploading. If you already have your file in a .md file you can click 'Upload files' and upload your file.
 
 ![Upload](https://user-images.githubusercontent.com/73805987/97834518-a7777880-1c9d-11eb-8047-8ed9f738d451.png)
 
@@ -97,6 +104,8 @@ Scroll to the bottom and select 'Commit changes'.
 Congratulations! You now host your resume on GitHub Pages. Check it out by visiting your URL.
 
 ![Alt text](https://media.giphy.com/media/jAzP6ubqXn5miQrTAm/giphy.gif)
+
+One last lesson Etter teaches is to publish documentation frequently. Since your resume is now public, you do not know when it will be glared at, nor by whom. Hence: update, update, update. 
 
 ### More Resources
 
