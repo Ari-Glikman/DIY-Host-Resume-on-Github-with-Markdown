@@ -9,6 +9,7 @@ ________________
 Why would you want to create a resume with markdown and host it on GitHub in the first place? 
 
 For starters, markdown is one of the most popular lightweight markup languages, since it is easy to learn and converts to HTML quickly. Learning to use it will be useful as it is used everywhere on the internet!             
+
 Secondly, static websites, as Andrew Etter will tell you, are everywhere and anywhere. On top of that, they are easy, secure, fast, and portable. By hosting your resume on GitHub pages you will be utilizing one yourself.
 
 Lastly, having your resume online is a no-brainer if you are in tech. As a bonus GitHub pages will also give you a nice URL, which will look impressive and allow yourself to look like the polished person you are.
