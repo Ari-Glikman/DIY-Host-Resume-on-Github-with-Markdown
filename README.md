@@ -30,7 +30,7 @@ What are you going to need before you get started? You will need the following:
 
 The steps will be simple easy to follow.
 
-### 1. Create a new repository on GitHub (and make sure it is public)
+#### 1. Create a new repository on GitHub (and make sure it is public)
 
 All the material that you will need will exist within a single repository on GitHub. You can go ahead and create one by cliking the '+' at the top right corner of your GitHub page and select 'New repository'. 
 
@@ -48,7 +48,7 @@ It will be simpler for you if you **do not** initialize your repository with any
 Go ahead and click 'Create repository'.
 
 
-### 2. Enable GitHub Pages 
+#### 2. Enable GitHub Pages 
 
 
 To enable GitHub Pages you will have to first change your repsotiory's settings. 
@@ -64,7 +64,7 @@ It should look like this:
 
 Click 'Choose a theme'. Here you will have several options. Explore which you like best for your resume and click 'Select theme'. (This is not final, you can change your theme at any time)
 
-### 3. Choose a template for your resume
+#### 3. Choose a template for your resume
 
 Remember the static websites that are so handy? You are going to go ahead and use it now. Though there are many to choose from, the one you are going to use today is Jekyll. Don't worry: you do not have to know what Jekyll is or how to use it, but just know that you will use it as your static site generator. 
 
@@ -75,7 +75,7 @@ Once you do this you will be taken to edit a new file in your repository. This f
 ![index](https://user-images.githubusercontent.com/73805987/97835006-c9252f80-1c9e-11eb-9903-27b1e90366c9.png)
 
 
-### 4. Upload your resume in Markdown
+#### 4. Upload your resume in Markdown
 
 There is a few ways to go about doing this. If you already have your file in a .md file you can click 'Upload files' and upload your file.
 
@@ -92,15 +92,33 @@ Scroll to the bottom and select 'Commit changes'.
 
 ![resume](https://user-images.githubusercontent.com/73805987/97835723-6f256980-1ca0-11eb-958b-eec9d316312b.png)
 
-### 5. Show. It. Off.
+#### 5. Show. It. Off.
 
 Congratulations! You now host your resume on GitHub Pages. Check it out by visiting your URL.
 
 ![Alt text](https://media.giphy.com/media/jAzP6ubqXn5miQrTAm/giphy.gif)
 
-
-
 ### More Resources
 
+Do you want to learn more about markdown? Do so [here.](https://www.markdowntutorial.com/)
 
+Get Andrew Etter's [*Modern Technical Writing.*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+Are you still curious about creating static websites using Jekyll? Look no [further.](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
+### Authors and Acknowledgements
+
+I would like to thank Ryan Shaski for his resume template and my group members: Michael Kolisnyk, Darshan Pandhi, and Farjad Tariq for giving me direction and creative ideas on creating my resume and README files.
+
+### FAQ
+
+1.  Why should I use Markdown instead of a word processor?
+
+    * Great Question! In short, Markdown is more flexible. It does not depenend on an operating system, platform, and last but not least it is everywhere including on the front page of the [internet](https://www.reddit.com/).
+
+
+
+2.  What if I want my resume to display on my profile?
+
+    * That's possible too. Rename your index.md file to README.md. It should now show up on your profile (as your profile's README).  
 
