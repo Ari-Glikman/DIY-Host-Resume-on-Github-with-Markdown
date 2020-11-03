@@ -101,7 +101,7 @@ Scroll to the bottom and select 'Commit changes'.
 
 #### 5. Show. It. Off.
 
-Congratulations! You now host your resume on GitHub Pages. Check it out by visiting your URL.
+Congratulations! You now host your resume on GitHub Pages. Check it out by visiting your URL as shown below.
 
 ![Alt text](https://media.giphy.com/media/jAzP6ubqXn5miQrTAm/giphy.gif)
 
