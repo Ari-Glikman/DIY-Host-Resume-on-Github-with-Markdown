@@ -8,9 +8,11 @@ glikmana@myumanitoba.ca
 
 ## Education
 **University of Manitoba**  *Sept 2016 - Present*       
+GPA: 4.22/4.50    
 Undergraduate, Computer Science - Physics Joint Honours Program
 
-**Hebrew University of Jerusalem** *February - August 2020*                 
+**Hebrew University of Jerusalem** *February - August 2020*   
+GPA: 94.23/100      
 Undergraduate, Middle East Studies
 
  
