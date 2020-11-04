@@ -27,7 +27,7 @@ What are you going to need before you get started? You will need the following:
 
 3. A GitHub account
     * Don't have one? No problem. Make one [here](https://github.com/).
-    
+     
     
 ### Instructions
 
